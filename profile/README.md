@@ -2,15 +2,15 @@ Welcome to [Keygen's](https://keygen.sh) GitHub, where you can find various exam
 
 Some notable example apps include:
 
-- https://github.com/keygen-sh/example-electron-license-activation
-- https://github.com/keygen-sh/example-python-machine-heartbeats
-- https://github.com/keygen-sh/air-gapped-activation-example
-- https://github.com/keygen-sh/example-csharp-cryptographic-license-files
-- https://github.com/keygen-sh/example-cpp-response-signature-verification
-- https://github.com/keygen-sh/example-csharp-license-activation
-- https://github.com/keygen-sh/example-java-cryptographic-license-files
-- https://github.com/keygen-sh/example-password-reset-fulfillment
-- https://github.com/keygen-sh/example-csharp-user-authentication
-- https://github.com/keygen-sh/example-python-machine-activation
+- [How to implement license activation in an Electron app](https://github.com/keygen-sh/example-electron-license-activation)
+- [How to implement machine heartbeats in Python](https://github.com/keygen-sh/example-python-machine-heartbeats)
+- [How to implement air-gapped license activation](https://github.com/keygen-sh/air-gapped-activation-example)
+- [How to verify and decrypt License Files in C#](https://github.com/keygen-sh/example-csharp-cryptographic-license-files)
+- [How to verify API response signatures in C++](https://github.com/keygen-sh/example-cpp-response-signature-verification)
+- [How to implement license activation in C#](https://github.com/keygen-sh/example-csharp-license-activation)
+- [How to verify an decrypt License Files in Java](https://github.com/keygen-sh/example-java-cryptographic-license-files)
+- [How to implement a custom password reset flow](https://github.com/keygen-sh/example-password-reset-fulfillment)
+- [How to impelement user authentication in C#](https://github.com/keygen-sh/example-csharp-user-authentication)
+- [How to implement license activation in Python](https://github.com/keygen-sh/example-python-machine-activation)
 
 Reach out if you need a specific example or have any questions!
