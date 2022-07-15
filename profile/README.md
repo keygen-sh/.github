@@ -3,6 +3,7 @@ Welcome to [Keygen's](https://keygen.sh) GitHub, where you can find various exam
 Some notable example apps include:
 
 - [How to implement license activation in an Electron app](https://github.com/keygen-sh/example-electron-license-activation)
+- [How to verify and decrypt license files in Rust](https://github.com/keygen-sh/example-rust-cryptographic-license-files)
 - [How to implement machine heartbeats in Python](https://github.com/keygen-sh/example-python-machine-heartbeats)
 - [How to implement air-gapped license activation](https://github.com/keygen-sh/air-gapped-activation-example)
 - [How to verify and decrypt License Files in C#](https://github.com/keygen-sh/example-csharp-cryptographic-license-files)
