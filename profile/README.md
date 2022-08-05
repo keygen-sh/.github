@@ -6,6 +6,7 @@ Some notable example apps include:
 - [How to verify and decrypt machine files in Python](https://github.com/keygen-sh/example-python-cryptographic-machine-files)
 - [How to verify and decrypt license files in Rust](https://github.com/keygen-sh/example-rust-cryptographic-license-files)
 - [How to implement machine heartbeats in Python](https://github.com/keygen-sh/example-python-machine-heartbeats)
+- [How to verify and decrypt license files in C++](https://github.com/keygen-sh/example-cpp-cryptographic-license-files)
 - [How to implement air-gapped license activation](https://github.com/keygen-sh/air-gapped-activation-example)
 - [How to verify and decrypt License Files in C#](https://github.com/keygen-sh/example-csharp-cryptographic-license-files)
 - [How to verify API response signatures in C++](https://github.com/keygen-sh/example-cpp-response-signature-verification)
