@@ -1,4 +1,4 @@
-<a href="https://keygen.sh?ref=keygen-api">
+<a href="https://keygen.sh?ref=keygen-profile">
   <div>
     <img src="https://keygen.sh/images/logo-pill.png" width="200" alt="Keygen">
   </div>
