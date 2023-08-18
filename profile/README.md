@@ -14,6 +14,7 @@ Some notable example apps include:
 - [How to verify and decrypt license files in Python](https://github.com/keygen-sh/example-python-cryptographic-license-files)
 - [How to verify and decrypt license files in Rust](https://github.com/keygen-sh/example-rust-cryptographic-license-files)
 - [How to implement machine heartbeats in Python](https://github.com/keygen-sh/example-python-machine-heartbeats)
+- [How to implement process heartbeats in Node](https://github.com/keygen-sh/example-node-process-heartbeats)
 - [How to verify and decrypt license files in C++](https://github.com/keygen-sh/example-cpp-cryptographic-license-files)
 - [How to implement air-gapped license activation](https://github.com/keygen-sh/air-gapped-activation-example)
 - [How to verify and decrypt License Files in C#](https://github.com/keygen-sh/example-csharp-cryptographic-license-files)
@@ -23,5 +24,6 @@ Some notable example apps include:
 - [How to implement a custom password reset flow](https://github.com/keygen-sh/example-password-reset-fulfillment)
 - [How to implement user authentication in C#](https://github.com/keygen-sh/example-csharp-user-authentication)
 - [How to implement license activation in Python](https://github.com/keygen-sh/example-python-machine-activation)
+- [How to implement machine activation in Node](https://github.com/keygen-sh/example-node-machine-activation)
 
 Reach out if you need a specific example or have any questions!
