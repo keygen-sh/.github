@@ -24,6 +24,6 @@ Some notable example apps include:
 - [How to implement a custom password reset flow](https://github.com/keygen-sh/example-password-reset-fulfillment)
 - [How to implement user authentication in C#](https://github.com/keygen-sh/example-csharp-user-authentication)
 - [How to implement license activation in Python](https://github.com/keygen-sh/example-python-machine-activation)
-- [How to implement machine activation in Node](https://github.com/keygen-sh/example-node-machine-activation)
+- [How to implement license activation in Node](https://github.com/keygen-sh/example-node-machine-activation)
 
 Reach out if you need a specific example or have any questions!
