@@ -9,7 +9,7 @@ Welcome to [Keygen's](https://keygen.sh) GitHub. Keygen is an [open, source-avai
 
 Some notable example apps include:
 
-- [How to implement license activation in an Electron app](https://github.com/keygen-sh/example-electron-license-activation)\
+- [How to implement license activation in an Electron app](https://github.com/keygen-sh/example-electron-license-activation)
 - [How to implement a customer-facing Portal in React](https://github.com/keygen-sh/example-react-licensing-portal)
 - [How to verify and decrypt machine files in Python](https://github.com/keygen-sh/example-python-cryptographic-machine-files)
 - [How to verify and decrypt license files in Python](https://github.com/keygen-sh/example-python-cryptographic-license-files)
