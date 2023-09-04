@@ -5,7 +5,7 @@
 </a>
 <br>
 
-Welcome to [Keygen's](https://keygen.sh) GitHub. Keygen is an [open, source-available](https://github.com/keygen-sh/keygen-api) software licensing and distribution API ([source code](https://github.com/keygen-sh/keygen-api)). In addition to [our API](https://github.com/keygen-sh/keygen-api) (and soon to be Portal), you can find various example apps written in a myriad of programming languages, and our open source projects, such as [`request_migrations`](https://github.com/keygen-sh/request_migrations), [`typed_params`](https://github.com/keygen-sh/typed_params), [`py-machineid`](https://github.com/keygen-sh/py-machineid), [our CLI](https://github.com/keygen-sh/keygen-cli), and [our Go SDK](https://github.com/keygen-sh/keygen-go).
+Welcome to [Keygen's](https://keygen.sh) GitHub. Keygen is an open, source-available software licensing and distribution API ([source code](https://github.com/keygen-sh/keygen-api)). In addition to [our API](https://github.com/keygen-sh/keygen-api) (and soon to be Portal), you can find various example apps written in a myriad of programming languages, and our open source projects, such as [`request_migrations`](https://github.com/keygen-sh/request_migrations), [`typed_params`](https://github.com/keygen-sh/typed_params), [`py-machineid`](https://github.com/keygen-sh/py-machineid), [our CLI](https://github.com/keygen-sh/keygen-cli), and [our Go SDK](https://github.com/keygen-sh/keygen-go).
 
 Some notable example apps include:
 
