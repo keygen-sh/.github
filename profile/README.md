@@ -14,6 +14,7 @@ Some notable example apps include:
 - [How to verify and decrypt machine files in Python](https://github.com/keygen-sh/example-python-cryptographic-machine-files)
 - [How to verify and decrypt license files in Python](https://github.com/keygen-sh/example-python-cryptographic-license-files)
 - [How to verify and decrypt license files in Rust](https://github.com/keygen-sh/example-rust-cryptographic-license-files)
+- [How to verify and decrypt license files in Node](https://github.com/keygen-sh/example-node-cryptographic-license-files)
 - [How to implement machine heartbeats in Python](https://github.com/keygen-sh/example-python-machine-heartbeats)
 - [How to implement process heartbeats in Node](https://github.com/keygen-sh/example-node-process-heartbeats)
 - [How to verify and decrypt license files in C++](https://github.com/keygen-sh/example-cpp-cryptographic-license-files)
